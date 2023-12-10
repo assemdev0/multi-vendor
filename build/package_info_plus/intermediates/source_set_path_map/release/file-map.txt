@@ -1,0 +1,12 @@
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-annotation-experimental-1.1.0-0 C:\Users\Assem\.gradle\caches\transforms-3\95e35a2a7fbc12b69d86ed4f6df6254c\transformed\jetified-annotation-experimental-1.1.0\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-core-1.6.0-1 C:\Users\Assem\.gradle\caches\transforms-3\a79b5319cbf75abc75b563c0cc3fdec4\transformed\core-1.6.0\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-java-1.0.0-beta04-2 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-jetified-window-1.0.0-beta04-3 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-main-4 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-3.1.2\android\src\main\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-release-5 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\package_info_plus-3.1.2\android\src\release\res
+dev.fluttercommunity.plus.packageinfo.package_info_plus-pngs-6 D:\Line media\flutter_application\build\package_info_plus\generated\res\pngs\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-resValues-7 D:\Line media\flutter_application\build\package_info_plus\generated\res\resValues\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-rs-8 D:\Line media\flutter_application\build\package_info_plus\generated\res\rs\release
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-9 D:\Line media\flutter_application\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\merged.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-mergeReleaseResources-10 D:\Line media\flutter_application\build\package_info_plus\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+dev.fluttercommunity.plus.packageinfo.package_info_plus-merged_res-11 D:\Line media\flutter_application\build\package_info_plus\intermediates\merged_res\release

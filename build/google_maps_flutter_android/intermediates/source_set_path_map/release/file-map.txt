@@ -1,0 +1,16 @@
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-base-18.0.1-0 C:\Users\Assem\.gradle\caches\transforms-3\12f62b99d7391c43d6a9f72f2233d4e3\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-basement-18.0.0-1 C:\Users\Assem\.gradle\caches\transforms-3\15a2fc3e6e8f9eeeba10d7005bbf97e1\transformed\jetified-play-services-basement-18.0.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-play-services-maps-18.2.0-2 C:\Users\Assem\.gradle\caches\transforms-3\5de616ee123250b57c778ebfcbb6b2ca\transformed\jetified-play-services-maps-18.2.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-annotation-experimental-1.1.0-3 C:\Users\Assem\.gradle\caches\transforms-3\95e35a2a7fbc12b69d86ed4f6df6254c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-core-1.6.0-4 C:\Users\Assem\.gradle\caches\transforms-3\a79b5319cbf75abc75b563c0cc3fdec4\transformed\core-1.6.0\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-java-1.0.0-beta04-5 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-jetified-window-1.0.0-beta04-6 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-main-7 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.5.3\android\src\main\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-release-8 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\google_maps_flutter_android-2.5.3\android\src\release\res
+io.flutter.plugins.googlemaps.google_maps_flutter_android-packaged_res-9 D:\Line media\flutter_application\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-pngs-10 D:\Line media\flutter_application\build\google_maps_flutter_android\generated\res\pngs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-resValues-11 D:\Line media\flutter_application\build\google_maps_flutter_android\generated\res\resValues\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-rs-12 D:\Line media\flutter_application\build\google_maps_flutter_android\generated\res\rs\release
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-13 D:\Line media\flutter_application\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-mergeReleaseResources-14 D:\Line media\flutter_application\build\google_maps_flutter_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlemaps.google_maps_flutter_android-merged_res-15 D:\Line media\flutter_application\build\google_maps_flutter_android\intermediates\merged_res\release

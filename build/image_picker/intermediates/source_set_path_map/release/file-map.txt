@@ -1,0 +1,13 @@
+io.flutter.plugins.imagepicker.image_picker-jetified-annotation-experimental-1.1.0-0 C:\Users\Assem\.gradle\caches\transforms-3\95e35a2a7fbc12b69d86ed4f6df6254c\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.imagepicker.image_picker-core-1.6.0-1 C:\Users\Assem\.gradle\caches\transforms-3\a79b5319cbf75abc75b563c0cc3fdec4\transformed\core-1.6.0\res
+io.flutter.plugins.imagepicker.image_picker-jetified-window-java-1.0.0-beta04-2 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker-jetified-window-1.0.0-beta04-3 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.imagepicker.image_picker-main-4 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-0.7.5+4\android\src\main\res
+io.flutter.plugins.imagepicker.image_picker-release-5 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\image_picker-0.7.5+4\android\src\release\res
+io.flutter.plugins.imagepicker.image_picker-packaged_res-6 D:\Line media\flutter_application\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\release
+io.flutter.plugins.imagepicker.image_picker-pngs-7 D:\Line media\flutter_application\build\image_picker\generated\res\pngs\release
+io.flutter.plugins.imagepicker.image_picker-resValues-8 D:\Line media\flutter_application\build\image_picker\generated\res\resValues\release
+io.flutter.plugins.imagepicker.image_picker-rs-9 D:\Line media\flutter_application\build\image_picker\generated\res\rs\release
+io.flutter.plugins.imagepicker.image_picker-mergeReleaseResources-10 D:\Line media\flutter_application\build\image_picker\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.imagepicker.image_picker-mergeReleaseResources-11 D:\Line media\flutter_application\build\image_picker\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.imagepicker.image_picker-merged_res-12 D:\Line media\flutter_application\build\image_picker\intermediates\merged_res\release

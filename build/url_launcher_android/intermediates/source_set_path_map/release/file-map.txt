@@ -1,0 +1,14 @@
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.3.0-0 C:\Users\Assem\.gradle\caches\transforms-3\175dab4044537d0c70e9785b29b68de1\transformed\jetified-annotation-experimental-1.3.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.3.1-1 C:\Users\Assem\.gradle\caches\transforms-3\22a02fc46cdf8b37a2f96e419e1369f4\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.10.1-2 C:\Users\Assem\.gradle\caches\transforms-3\333200c76cdf0bfc6142a70b7fbcc0fc\transformed\core-1.10.1\res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.5.0-3 C:\Users\Assem\.gradle\caches\transforms-3\768c59602b77b98f97cbc8234c3edf26\transformed\browser-1.5.0\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-4 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-5 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.urllauncher.url_launcher_android-main-6 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.2.0\android\src\main\res
+io.flutter.plugins.urllauncher.url_launcher_android-release-7 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\url_launcher_android-6.2.0\android\src\release\res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-8 D:\Line media\flutter_application\build\url_launcher_android\generated\res\pngs\release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-9 D:\Line media\flutter_application\build\url_launcher_android\generated\res\resValues\release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-10 D:\Line media\flutter_application\build\url_launcher_android\generated\res\rs\release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-11 D:\Line media\flutter_application\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-12 D:\Line media\flutter_application\build\url_launcher_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-13 D:\Line media\flutter_application\build\url_launcher_android\intermediates\merged_res\release

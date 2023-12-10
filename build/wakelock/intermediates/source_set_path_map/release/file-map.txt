@@ -1,0 +1,12 @@
+creativemaybeno.wakelock-jetified-annotation-experimental-1.1.0-0 C:\Users\Assem\.gradle\caches\transforms-3\95e35a2a7fbc12b69d86ed4f6df6254c\transformed\jetified-annotation-experimental-1.1.0\res
+creativemaybeno.wakelock-core-1.6.0-1 C:\Users\Assem\.gradle\caches\transforms-3\a79b5319cbf75abc75b563c0cc3fdec4\transformed\core-1.6.0\res
+creativemaybeno.wakelock-jetified-window-java-1.0.0-beta04-2 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+creativemaybeno.wakelock-jetified-window-1.0.0-beta04-3 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+creativemaybeno.wakelock-main-4 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\main\res
+creativemaybeno.wakelock-release-5 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\wakelock-0.6.2\android\src\release\res
+creativemaybeno.wakelock-pngs-6 D:\Line media\flutter_application\build\wakelock\generated\res\pngs\release
+creativemaybeno.wakelock-resValues-7 D:\Line media\flutter_application\build\wakelock\generated\res\resValues\release
+creativemaybeno.wakelock-rs-8 D:\Line media\flutter_application\build\wakelock\generated\res\rs\release
+creativemaybeno.wakelock-mergeReleaseResources-9 D:\Line media\flutter_application\build\wakelock\intermediates\incremental\release\mergeReleaseResources\merged.dir
+creativemaybeno.wakelock-mergeReleaseResources-10 D:\Line media\flutter_application\build\wakelock\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+creativemaybeno.wakelock-merged_res-11 D:\Line media\flutter_application\build\wakelock\intermediates\merged_res\release

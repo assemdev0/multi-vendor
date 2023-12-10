@@ -1,0 +1,16 @@
+com.lyokone.location-jetified-annotation-experimental-1.1.0-0 C:\Users\Assem\.gradle\caches\transforms-3\95e35a2a7fbc12b69d86ed4f6df6254c\transformed\jetified-annotation-experimental-1.1.0\res
+com.lyokone.location-core-1.6.0-1 C:\Users\Assem\.gradle\caches\transforms-3\a79b5319cbf75abc75b563c0cc3fdec4\transformed\core-1.6.0\res
+com.lyokone.location-jetified-play-services-base-16.0.1-2 C:\Users\Assem\.gradle\caches\transforms-3\a7d59d1b12d4fba535656dabf00090b0\transformed\jetified-play-services-base-16.0.1\res
+com.lyokone.location-media-1.0.0-3 C:\Users\Assem\.gradle\caches\transforms-3\b0a0febd7974dbd615681e02c2034206\transformed\media-1.0.0\res
+com.lyokone.location-jetified-window-java-1.0.0-beta04-4 C:\Users\Assem\.gradle\caches\transforms-3\b0b9384c424d017580f5159d3b8b5a0e\transformed\jetified-window-java-1.0.0-beta04\res
+com.lyokone.location-jetified-window-1.0.0-beta04-5 C:\Users\Assem\.gradle\caches\transforms-3\c0721d863b83292137697e12d1030226\transformed\jetified-window-1.0.0-beta04\res
+com.lyokone.location-jetified-play-services-basement-16.0.1-6 C:\Users\Assem\.gradle\caches\transforms-3\c9b933feb0e1af31bd876f928dc0454b\transformed\jetified-play-services-basement-16.0.1\res
+com.lyokone.location-coordinatorlayout-1.0.0-7 C:\Users\Assem\.gradle\caches\transforms-3\e8fea1ee0dd7545111ab20c03643cca5\transformed\coordinatorlayout-1.0.0\res
+com.lyokone.location-main-8 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\main\res
+com.lyokone.location-release-9 C:\Users\Assem\AppData\Local\Pub\Cache\hosted\pub.dev\location-4.4.0\android\src\release\res
+com.lyokone.location-pngs-10 D:\Line media\flutter_application\build\location\generated\res\pngs\release
+com.lyokone.location-resValues-11 D:\Line media\flutter_application\build\location\generated\res\resValues\release
+com.lyokone.location-rs-12 D:\Line media\flutter_application\build\location\generated\res\rs\release
+com.lyokone.location-mergeReleaseResources-13 D:\Line media\flutter_application\build\location\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.lyokone.location-mergeReleaseResources-14 D:\Line media\flutter_application\build\location\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.lyokone.location-merged_res-15 D:\Line media\flutter_application\build\location\intermediates\merged_res\release
